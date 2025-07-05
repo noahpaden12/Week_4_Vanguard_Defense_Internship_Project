@@ -9,9 +9,13 @@ Setup (all in the terminal for windows, use VS Code if possible thats where I'm 
 
 Trouble Shooting Commands:
   -"pip install --upgrade --force-reinstall numpy"
+  
   -"pip install --upgrade --force-reinstall ultralytics"
+  
   -"pip install --upgrade --force-reinstall torch torchvision"
+  
   -"python -m venv yolov8-env"
+  
   -"pip install numpy ultralytics torch torchvision"
 
 
