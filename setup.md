@@ -7,6 +7,7 @@ Setup (all in the terminal for windows, use VS Code if possible thats where I'm 
   -"pip install ultralytics"
 
 
+
 Trouble Shooting Commands:
 
   -"pip install --upgrade --force-reinstall numpy"
@@ -18,6 +19,7 @@ Trouble Shooting Commands:
   -"python -m venv yolov8-env"
   
   -"pip install numpy ultralytics torch torchvision"
+
 
 
 Then after you input these commands and set up your environment, download the "xview_sample", "yolo_format", and "annotations" folders and put them into a folder that also contains the "model_trainer.py".
