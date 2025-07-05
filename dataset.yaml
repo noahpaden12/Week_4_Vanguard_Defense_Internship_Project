@@ -1,0 +1,8 @@
+path: C:\Users\noaht\OneDrive\Desktop\HUVTSP\Week_3_Deliverables\People Detection
+  Model
+train: dataset_v1/test/images
+val: dataset_v1/test/images
+names:
+- people
+- person
+nc: 2
