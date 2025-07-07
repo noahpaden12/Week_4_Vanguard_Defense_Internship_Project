@@ -1,0 +1,16 @@
+path: /Users/omkakkad/Devlopment/projects/vanguard/week_4/Week_4_Vanguard_Defense_Internship_Project
+train: yolo_format/train/images  # Specify direct path to images folder
+val: yolo_format/val/images      # Specify direct path to images folder
+test: yolo_format/test/images    # Specify direct path to images folder
+
+# Classes
+names:
+  0: aircraft
+  1: building
+  2: vehicle
+  3: boat
+  4: tank
+  5: missile
+  6: rocket
+  7: artillery
+  8: helicopter
