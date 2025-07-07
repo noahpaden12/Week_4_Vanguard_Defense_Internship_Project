@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+yolov8env/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# YOLO specific
+*.pt
+*.onnx
+*.engine
+*.torchscript
+*.tflite
+*.mlmodel
+
+# Datasets - optional, uncomment if you don't want to track datasets
+# yolo_format/
+# Week_4_Vanguard_Defense_Internship_Project/
+
+# YOLO runs and results
+*.weights
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# COCO format annotations
+annotations/*.json
+
+# Model export formats
+exported_models/
+*.trt
+*.xml
+*.bin
+*.bin
